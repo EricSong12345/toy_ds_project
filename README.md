@@ -1,2 +1,3 @@
 # toy_ds_project
-DSCI 
+project creation date: 2025-02-07
+
